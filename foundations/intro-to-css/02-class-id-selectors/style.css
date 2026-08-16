@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+.n1{
+    background-color: brown;
+}
+
+#n2{
+    color: blue;
+    font-size: 30px;
+}
+
+.n3{
+    background-color: rgb(5, 5, 5);
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    border: solid 1px #ff9901;
+}
+
+#n4{
+    background-color: green;
+}
+
+.n5{
+    background-color: rgba(255, 0, 0, 0.753);
+}
