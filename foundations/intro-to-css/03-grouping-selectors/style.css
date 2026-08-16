@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+#clickme{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.clickme{
+    padding: 5px;
+    font-size: 30px;
+    background-color: yellow;
+    border: 1px solid #000;
+}
