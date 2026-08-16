@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+#woman{
+    height: 200px;
+    width: auto;
+}
+#man{
+    width: 10%;
+    height: 300px;
+}
